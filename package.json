@@ -1,0 +1,17 @@
+{
+  "name": "bitly_test_case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuintun/qrcode": "^3.3.0",
+    "@zxing/browser": "^0.1.1",
+    "cypress": "^9.6.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

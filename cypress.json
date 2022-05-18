@@ -1,0 +1,16 @@
+{
+    "baseUrl": "https://www.qrcode-monkey.com/",
+    "env": {
+        "testUrl": "https://www.test-url.com",
+        "defaultUrl": "https://qrstud.io/qrmnky",
+        "qrcodeMonkeyUrl": "https://www.qrcode-monkey.com",
+        "signUpPageUrl": "https://login.qr-code-generator.com/signup",
+        "chromeStoreUrl": "https://chrome.google.com/webstore/detail/gidoepdbdhacpopcmepkflghaalfapmk",
+        "downloadsFolder": "/Users/vpn_test/Desktop/bitly_my_test_case/cypress/downloads/"
+      },
+    "chromeWebSecurity": false,
+    "viewportWidth": 1200,
+    "viewportHeight": 1000
+
+}
+  
