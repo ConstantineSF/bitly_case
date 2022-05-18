@@ -1,4 +1,4 @@
-# bitly_my_test_case
+# bitly_case
 clone repo <br />
 do npm install <br />
 go to project directory in terminal <br />
